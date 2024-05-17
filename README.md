@@ -1,6 +1,5 @@
-# linvest-autocoder README
+# autocoder README
 
-This is the README for your extension "linvest-autocoder". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
